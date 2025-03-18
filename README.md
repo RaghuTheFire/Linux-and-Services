@@ -1,2 +1,1 @@
-# ComputerNetworking
-Some Valueable Resources about Computer Networking
+Linux and Services
